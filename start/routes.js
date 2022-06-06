@@ -17,7 +17,7 @@
 const Route = use('Route')
 
 Route.get('/', () => {
-  return { greeting: 'Hello world in JSON' }
+  return { greeting: 'Somos el equipo LOS ÚLTIMOS EN ENTREGAR' }
 })
 
 Route.group(() =>{
